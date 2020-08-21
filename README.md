@@ -1,5 +1,3 @@
-# nba prognoza
-
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
 | Branko      | 0 |
