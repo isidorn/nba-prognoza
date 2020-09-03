@@ -2,12 +2,12 @@
 
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
-| Branko      | 0 |
-| Filip      | 0 |
-| Ilija | 0 |
-| isidor      | 0 |
-| Marko      | 0 |
-| Milan     | 0 |
-| Miroslav | 0 |
-| Pera | 0 |
-| Srdjan | 0 |
+| Branko      | 10 |
+| Miroslav | 10 |
+| Pera | 10 |
+| Srdjan | 10 |
+| Marko      | 10 |
+| Filip      | 9 |
+| Ilija | 9 |
+| isidor      | 8 |
+| Milan     | 8 |
