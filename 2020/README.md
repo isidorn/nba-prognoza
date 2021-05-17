@@ -11,7 +11,7 @@
 | Branko      | 10 |
 | isidor      | 10 |
 | Ilija | 9 |
-|
+
 
 # Roto Fantasy Liga 2019/2020
 

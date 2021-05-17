@@ -11,7 +11,7 @@
 | Branko      | 0 |
 | isidor      | 0 |
 | Strahinja | 0 |
-| 
+
 
 # Roto Fantasy Liga 2020/2021
 
