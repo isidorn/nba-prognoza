@@ -9,8 +9,13 @@
 | Filip      | 0 |
 | Milan     | 0 |
 | Branko      | 0 |
-| isidor      | 0 |
+| Isidor      | 0 |
 | Strahinja | 0 |
+| Lad | 0 |
+| Bajgo | 0 |
+| Stajic | 0 |
+| Milos | 0 |
+| Nemanja | 0 |
 
 
 # Roto Fantasy Liga 2020/2021
