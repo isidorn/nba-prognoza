@@ -3,6 +3,7 @@
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
 | Miroslav | 17 |
+| Voja | 16 |
 | Bajgo | 15 |
 | Nemanja | 14 |
 | Lad | 14 |
