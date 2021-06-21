@@ -2,22 +2,22 @@
 
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
-| Miroslav | 19 |
+| Miroslav | 21 |
+| Nemanja | 19 |
+| Lad | 19 |
 | Voja | 18 |
-| Nemanja | 17 |
-| Lad | 16 |
-| Bajgo | 15 |
-| Marko      | 15 |
+| Bajgo | 17 |
+| Strahinja | 17 |
+| Pera | 17 |
+| Marko      | 17 |
+| Stajic | 16 |
+| Milos | 16 |
 | Srdjan | 15 |
-| Strahinja | 15 |
-| Pera | 14 |
+| Filip      | 14 |
+| Milan     | 14 |
 | Rade | 14 |
-| Stajic | 14 |
-| Milos | 13 |
-| Filip      | 12 |
-| Milan     | 12 |
+| Branko      | 13 |
 | Isidor      | 10 |
-| Branko      | 10 |
 
 
 # Roto Fantasy Liga 2020/2021
