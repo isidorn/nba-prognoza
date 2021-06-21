@@ -8,8 +8,8 @@
 | Voja | 18 |
 | Bajgo | 17 |
 | Strahinja | 17 |
-| Pera | 17 |
 | Marko      | 17 |
+| Pera | 16 |
 | Stajic | 16 |
 | Milos | 16 |
 | Srdjan | 15 |
