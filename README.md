@@ -5,6 +5,7 @@
 | Miroslav | 21 |
 | Nemanja | 19 |
 | Lad | 19 |
+| Filip      | 18 |
 | Voja | 18 |
 | Bajgo | 17 |
 | Strahinja | 17 |
@@ -13,7 +14,6 @@
 | Stajic | 16 |
 | Milos | 16 |
 | Srdjan | 15 |
-| Filip      | 14 |
 | Milan     | 14 |
 | Rade | 14 |
 | Branko      | 13 |
