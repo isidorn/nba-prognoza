@@ -2,7 +2,7 @@
 
 | Ucesnik        | Bodova
 | ------------- |:-------------:|
-| Miroslav | 21 |
+| Miroslav | 23 |
 | Nemanja | 19 |
 | Lad | 19 |
 | Filip      | 18 |
