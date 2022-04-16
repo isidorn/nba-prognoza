@@ -4,7 +4,7 @@
 | ------------- |:-------------:|
 | Miroslav | |
 | Nemanja | |
-| Lad | |
+| Perovic | |
 | Filip      | |
 | Bajgo | |
 | Strahinja | |
