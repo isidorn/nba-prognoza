@@ -8,14 +8,10 @@
 | Filip      | |
 | Bajgo | |
 | Strahinja | |
-| Marko      | |
-| Pera | |
 | Stajic | |
 | Milos | |
 | Srdjan | |
-| Milan     | |
 | Rade | |
-| Branko      | |
 | Isidor      | |
 
 
